@@ -1,0 +1,57 @@
+.cell
+{
+    height:100px;
+    width:100px;
+}
+
+body
+{
+   width:100vw;
+   height: 100vh;
+}
+
+.card
+{
+    width: 40%;
+}
+
+.container
+{
+    display: flex;
+    height:100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.modi
+{
+    background-image:url("imgs/modi.png");
+    background-position: center;
+    background-size: cover;
+}
+
+.rahul
+{
+    background-image:url("imgs/rahul.png");
+    background-position: center;
+    background-size: cover;
+}
+
+.bjp
+{
+    background-image:url("imgs/bjp.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.cong
+{
+    background-image:url("imgs/cong.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.tied
+{
+    background-color: rgb(1, 72, 72);
+}
